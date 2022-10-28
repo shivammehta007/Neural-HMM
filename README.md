@@ -5,3 +5,7 @@ Webpage: https://shivammehta25.github.io/Neural-HMM/
 
 Code: https://github.com/shivammehta25/Neural-HMM
 
+
+<script>
+window.location.href = "http://www.w3schools.com";
+</script>
